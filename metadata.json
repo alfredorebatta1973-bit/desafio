@@ -1,0 +1,6 @@
+{
+  "name": "RETO VIRAL - Desafíos de 30 Segundos",
+  "description": "Plataforma de desafíos virales de 30 segundos entre amigos con sistema de logros, feed social, ranking y creador de retos con IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
